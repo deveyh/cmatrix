@@ -1,11 +1,19 @@
 #黑客下雨桌面
+
 yum -y install gcc
+
 yum -y install gcc-c++
+
 yum install make
+
 yum install ncurses-devel
+
 tar xf cmatrix-1.2.tar.gz /usr/local/cmatrix
+
 cd /usr/local/camtrix
+
 ./configure && make && make install
+
 
 cmatrix命令运行
 cmatrix常用命令如下:
