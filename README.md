@@ -25,5 +25,6 @@ cmatrix-x :X window 模式
 cmatrix-V :显示版本信息
 cmatrix-u :刷新频率，0-9
 cmatrix-C :显示的颜色 （例如cmatrix -C green ）
+
 经过测试,命令复制无效
 
